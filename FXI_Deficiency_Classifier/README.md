@@ -4,7 +4,7 @@ This repository contains code and analysis for predicting bleeding phenotype in 
 
 Title: Plasma proteomic signatures determine clot stability and predict bleeding risk in factor XI deficiency
 
-Authors: Stéphanie E. Reitsma, Tracey G. Oellerich, Olivia C. White, Michael L. Hill, Daniel Kissau, John Burthem, Dougald M. Monroe, Paula H. B. Bolton-Maggs, Paul S. de Vries, Suzanne S. Sindi, Karin Leiderman, Gillian N. Gidley, Kirk C. Hansen, Alisa S. Wolberg
+Authors: Stéphanie E. Reitsma, Tracey G. Oellerich, Olivia C. White, Michael L. Hill, John Burthem, Dougald M. Monroe, Paula H. B. Bolton-Maggs, Paul S. de Vries, Suzanne S. Sindi, Karin Leiderman, Gillian N. Gidley, Kirk C. Hansen, Alisa S. Wolberg
 
 ## Overview
 **FXI_Deficiency_Classifier.ipynb** allows users to build and evaluate logistic regression models to predict FXI deficiency. Key features include:
