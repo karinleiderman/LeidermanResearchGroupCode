@@ -2,6 +2,9 @@
 
 This repository contains code and analysis for predicting bleeding phenotype in Factor XI (FXI) deficiency. 
 
+Title: Plasma proteomic signatures determine clot stability and predict bleeding risk in factor XI deficiency
+Authors: Stéphanie E. Reitsma, Tracey G. Oellerich, Olivia C. White, Michael L. Hill, Daniel Kissau, John Burthem, Dougald M. Monroe, Paula H. B. Bolton-Maggs, Paul S. de Vries, Suzanne S. Sindi, Karin Leiderman, Gillian N. Gidley, Kirk C. Hansen, Alisa S. Wolberg
+
 ## Overview
 This repository allows users to build and evaluate logistic regression models to predict FXI deficiency. Key features include:
 
@@ -32,5 +35,9 @@ Clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/karinleiderman/LeidermanResearchGroupCode/tree/main/FXI_Deficiency_Classifier.git
-cd <FXI_Deficiency_Classifier>
+cd FXI_Deficiency_Classifier
 pip install -r requirements.txt
+```
+
+## Contact
+If you have any questions or GitHub issues, feel free to contact us through email (toelleri@unc.edu & karin.leiderman@unc.edu).
